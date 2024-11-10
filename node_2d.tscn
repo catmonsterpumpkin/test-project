@@ -1,10 +1,10 @@
 [gd_scene load_steps=3 format=3 uid="uid://c0mp2i4pvlgdr"]
 
 [ext_resource type="Script" path="res://node_2d.gd" id="1_jjj7r"]
-[ext_resource type="Texture2D" uid="uid://bw35c8r6mhsko" path="res://icon.svg" id="2_i43d3"]
+[ext_resource type="Texture2D" uid="uid://ghx2alg6rl7m" path="res://Circle-removebg-preview.png" id="2_l4qrn"]
 
 [node name="Node2D" type="Node2D"]
 script = ExtResource("1_jjj7r")
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
-texture = ExtResource("2_i43d3")
+texture = ExtResource("2_l4qrn")
